@@ -9,6 +9,7 @@ This repo contains cheats I developed for simple games.
 It was a good starting point for me to understand the internal features and memory of Windows.  
 
 
+Feel free to contribute or get in touch.
 
 ## Authors
 
